@@ -8,6 +8,7 @@ export const PageAbout = () => {
     <div className="page_about">
       <h2>About</h2>
       <p>This is some info about the site.</p>
+
       <p>User is currently reading Books of: {status}</p>
     </div>
   );
